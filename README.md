@@ -46,11 +46,11 @@ A aplicação segue a arquitetura padrão de um projeto Flask:
 5.  **`fakepinterest/forms.py`**: Define as classes de formulário para garantir a validação e a segurança dos dados enviados pelos usuários (ex: login, cadastro).
 
 ### Funcionalidades
-- ✅ **Autenticação de Usuários**: Sistema completo de cadastro, login e logout.
-- ✅ **Feed de Fotos**: Página inicial que exibe as postagens de todos os usuários.
-- ✅ **Perfil de Usuário**: Página de perfil que exibe todas as fotos postadas por um usuário específico.
-- ✅ **Upload de Fotos**: Usuários autenticados podem enviar novas imagens para a plataforma.
-- ✅ **Segurança**: Senhas armazenadas de forma segura usando hashing.
+-  **Autenticação de Usuários**: Sistema completo de cadastro, login e logout.
+-  **Feed de Fotos**: Página inicial que exibe as postagens de todos os usuários.
+-  **Perfil de Usuário**: Página de perfil que exibe todas as fotos postadas por um usuário específico.
+-  **Upload de Fotos**: Usuários autenticados podem enviar novas imagens para a plataforma.
+-  **Segurança**: Senhas armazenadas de forma segura usando hashing.
 
 ### Como Usar
 Siga os passos abaixo para configurar e rodar o projeto localmente.
